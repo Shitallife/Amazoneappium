@@ -1,5 +1,3 @@
 # Amazoneappium
 amazone ui automator example
-
-testigngsdssdf
-Coomted
+//Added lots of example of different uiautomator viewerr example
